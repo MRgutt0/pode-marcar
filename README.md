@@ -2,6 +2,7 @@
 
 **Projeto:** PodeMarcar! — Progressive Web App para agendamento exclusivo de clientes VIP em lojas de moda  
 **Curso:** Projeto Extensionista Integrador IV — UNIVAG  
+**Professor:** Esp. Walderson Shimokawa  
 **Integrantes:** Erik Augusto Lima Benevides, João Gabriel Chorro Miler, Gabriel Beretta Padilha, Guilherme Sanches Martins, Renato Pinheiro da Silva Neto
 
 ## Descrição
